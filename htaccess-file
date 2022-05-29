@@ -1,4 +1,4 @@
-# NAME OF THE FILE MUST BE .htaccess
+# NAME OF THE FILE MUST BE ONLY .htaccess
 
 # Start
 RewriteEngine on
