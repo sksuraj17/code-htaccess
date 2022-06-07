@@ -1,4 +1,4 @@
-# code-htaccess
+# CODE - htaccess
 
 <p align="center" >&nbsp;<img align="center" src="https://user-images.githubusercontent.com/64256552/170830788-9a88c647-5611-4507-8f4e-3ab55eaa66a3.gif" /></p>
 
