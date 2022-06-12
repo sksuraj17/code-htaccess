@@ -6,7 +6,7 @@ RewriteEngine on
 # Does not apply to the existing directories
 RewriteCond %{REQUEST_FILENAME} !-d
 
-# Checking for thr file in the directories with .html extension
+# Checking for the file in the directories with .html extension
 RewriteCond %{REQUEST_FILENAME}\.html -f
 
 # The page that has the extension .html is displayed
